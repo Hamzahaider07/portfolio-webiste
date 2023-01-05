@@ -1,2 +1,2 @@
 # portfolio-webiste
-Create a Personal portfolio webiste with HTML 5 ,  CSS3 & Javascript
+this is a Personal portfolio webiste tech used:  HTML 5 ,  CSS3 & vanilla Javascript
